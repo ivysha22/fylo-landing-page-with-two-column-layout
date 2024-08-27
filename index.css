@@ -1,0 +1,226 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 50px 50px;
+    width: 100%;
+    
+    
+}
+.firstdiv{
+    display: flex;
+    gap: 70%;
+}
+.firstdivB{
+    display: flex;
+    gap: 20px;
+}
+.firstdivB a{
+    text-decoration: none;
+    color: black;
+}
+.image3 svg{
+    width: 1%;
+}
+.content1{
+    display: flex;
+    width: 100%;
+    margin-top: 8%;
+}
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.contentA{
+    width: 50%;
+}
+.contentB{
+    width: 50%;
+    
+}
+.two{
+    display: flex;
+    gap: 10px;
+}
+.two input {
+    height: 30px;
+    width: 200px;
+    
+}
+.two button{
+    height: 35px;
+    width: 200px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    border: none;
+    font-weight: 300;
+}
+.contentB img{
+    width: 80%;
+    margin-left: 15%;
+}
+.content2{
+    margin-top: 200px;
+    padding: 30px 30px;
+    display: flex;
+}
+.contentC{
+    width: 50%;
+}
+.contentD{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 30px;
+}
+.contentE{
+    width: 50%;
+    
+}
+#icon{
+    width: 5%;
+}
+.box{
+    margin-top: 30px;
+    background-color: white;
+    box-shadow: 5px 5px 30px;
+    width: 50%;
+    padding: 20px 20px;
+    
+}
+.image img{
+    width: 80%
+}
+#kyle{
+    width:11% ;
+    border-radius: 100%;
+}
+.image{
+    display: flex;
+    gap: 20px;
+}
+.span{
+    display: flex;
+    flex-direction: column;
+}
+.ceo{
+    font-weight: 900;
+}
+#arrow{
+    color: hsl(170, 45%, 43%);
+    font-size: larger;
+}
+.footA{
+    background-color: hsl(238, 22%, 44%);
+    color: white;
+    padding: 30px 30px;
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    margin-top: 50px;
+}
+.child1{
+    width: 50%;
+}
+.child2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.child2 input{
+    width: 300px;
+    height: 30px;
+}
+.button1{
+    width: 200px;
+    height: 30px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    border: none;
+}
+button:hover{
+    background-color: hsl(219, 80%, 66%);
+    color: black;
+}
+.footB{
+    background-color: hsl(243, 87%, 12%);
+    padding: 50px 50px;
+    color: white;
+}
+.last{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+}
+.child3{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 20px;
+}
+.child3 span{
+    display: flex;
+    width: 200px;
+    gap: 20px;
+}
+.image1 img{
+    color: white;
+}
+.child4{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 200px;
+  position: relative;
+  top: 20px;
+}
+.child4 a{
+    color: white;
+    text-decoration: none;
+    gap: 20px;
+}
+.child5{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+    position: relative;
+    top: 5px;
+}
+.child5 a{
+    color: white;
+    text-decoration: none;
+    gap: 20px;
+}
+a:hover{
+    color: hsl(224, 93%, 58%)
+    
+}
+.image3 svg{
+    background-color: white;
+    width: 5%;
+    padding: 10px;
+    gap: 10px;
+    margin: 10px;
+    position: relative;
+    bottom: 15px;
+    border-radius: 100%;
+}
+i{
+    border: solid white 4px;
+    border-radius: 100%;
+    padding: 8px 8px;
+}
+i:hover{
+    color: blue;
+}
+
+svg:hover{
+    background-color: blue;
+}
+@media(max-width:375px){
+
+}
+
+    
